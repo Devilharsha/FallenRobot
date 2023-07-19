@@ -436,7 +436,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", callback_data="fallen_support"
                         ),
                         InlineKeyboardButton(
-                            text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
+                            text="NINJA UNIVERSE 😈", url=f"t.me/ninjauniverse"
                          ),
                     ],
                     [
