@@ -435,8 +435,6 @@ def Source_about_callback(update: Update, context: CallbackContext):
         query.message.edit_texInlineKeyboardButton(
                             text="sᴜᴩᴩᴏʀᴛ", callback_data="fallen_support"
                         ),
-                    ],
-                    [
                         InlineKeyboardButton(
                             text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
                         ),
